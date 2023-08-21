@@ -15,6 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/jannatul-jahan-bonny-3a6704154/](https://www.linkedin.com/in/jannatul-jahan-bonny-3a6704154/)
 
+- Resume link: https://jannatul-jahan.github.io/resume.github.io/
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.leetcode.com/bonny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="bonny" height="30" width="40" /></a>
